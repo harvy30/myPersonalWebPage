@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://awesomewallpapers.files.wordpress.com/2014/11/rockefellercallsitaday-2880x18001.jpg);
+    background-size: cover;
+}
+
+div#mainContainer {
+    width: 0px auto;
+    height: 0px auto;
+    text-align: center;
+    font-family: Helvetica;
+    margin: 0 px auto;
+}
+
+#image {
+    text-align: center;
+    width: 290px;
+    height: 350px;
+    border-radius: 70%;
+    margin-top: 50px;
+    border: 2px solid white;
+}
+
+div#content {
+    text-align: center;
+    text-decoration-color: blue;
+    color: white;
+
+}
+
+
+
+div#table input {
+    border: 0px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    color: white;
+    background-color: Grey;
+}
